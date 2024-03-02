@@ -1,3 +1,4 @@
+import "./commons/config.js";
 import express from "express";
 import bodyParser from "body-parser";
 import { APP_NAME, APP_PORT } from "./commons/constants.js";
